@@ -1,0 +1,18 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "module 10 work",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jest-another-RPG"
+  },
+  "author": "William Takes",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
